@@ -1,0 +1,22 @@
+{
+  "name": "Muplace",
+  "version": "1.0.0",
+  "description": "Prototype for a design workshop at the EMSE CMP GC",
+  "author": "Clement Victor Gildas",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "element-ui": "^2.4.11",
+    "nuxt": "^2.4.0",
+    "vue-touchfeedback": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
