@@ -24,7 +24,7 @@ import { mapMutations } from 'vuex'
 export default {
   data() {
       return {
-          
+
       }
   },
 
@@ -52,7 +52,7 @@ export default {
   position: fixed; right: 0; left: 0; top: 64px; bottom: 0;
 }
 
-.layout.content > section { padding: 20px; }
+
 
 .layout-menu {
   background-color: #122035; z-index: 10;
