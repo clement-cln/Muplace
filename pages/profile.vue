@@ -1,6 +1,6 @@
 <template>
     <section>
-        <h1>Profile</h1>
+        <h1>Victor</h1>
         <p>Profile content</p>
     </section>
 </template>
